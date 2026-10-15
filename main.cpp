@@ -2,7 +2,6 @@
 #include <DHT.h>
 #include <math.h>
 
-// DHT11 signal pin is connected to ESP32 D23
 constexpr uint8_t DHT_PIN = 23;
 
 DHT dht(DHT_PIN, DHT11);
