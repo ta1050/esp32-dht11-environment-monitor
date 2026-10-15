@@ -12,7 +12,7 @@ I recorded readings under normal room conditions, while blowing air onto the sen
 
 ![Normal readings](images/baseline-readings.png)
 
-![Blown air readings](images/airflow-test.png)
+![Blown air readings](images/airflow_test.png)
 
 ![Heat readings](images/heat-source-test.png)
 
